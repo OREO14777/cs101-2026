@@ -9,4 +9,5 @@ int main(){
     printf("21\t22\t23\t24\t25\t26\t27\n");
     printf("28\t29\t30\t");
     printf("\033[1;34m 1\t2\t3\t4\n");
+    return 0;
 }
